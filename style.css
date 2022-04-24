@@ -207,7 +207,7 @@ div.formeco1{
     }*/
 
     div.cover{
-        height: 680px;
+        height: 700px;
         padding-top: 0px;
         margin: 0px;
     }
@@ -231,14 +231,14 @@ div.formeco1{
         position: absolute;
         width: 100%;
         margin: 0px;
-        top: 370px;
+        top: 400px;
     }
 
     div.lesCours{
         margin: 0;
         position: absolute;
         width: 100%;
-        top: 480px;
+        top: 520px;
     }
 
     .domicile{
@@ -246,7 +246,7 @@ div.formeco1{
     }
     
     .hedbomadaire{
-        width: 50%;
+        width: 60%;
         padding: 20px;
         text-align: center;
         margin: auto;
